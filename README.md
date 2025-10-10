@@ -1,4 +1,4 @@
-# AE_DBT
+# “Projetei e implementei uma arquitetura de dados moderna para um negócio estilo e-commerce, cobrindo ingestão, transformação, modelagem, testes e consumo”.
 Os componentes do Modern Data Stack
 O Modern Data Stack é composto por ferramentas que atuam em etapas distintas do ciclo de vida do dado, mas que funcionam de forma integrada.
 1.	Ingestão de dados – Ferramentas como Fivetran ou Stitch simplificam a extração de dados de múltiplas fontes (bases de dados, APIs, ficheiros) e carregam-nos para a nuvem. Estas soluções permitem mover dados de forma rápida e sem necessidade de reinventar integrações complexas.
