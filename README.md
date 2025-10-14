@@ -12,7 +12,7 @@ O que diferencia o Modern Data Stack
 •	Colaboração – engenheiros, analistas e equipas de negócio podem trabalhar sobre os mesmos dados com confiança.
 Integração no fluxo de dados
 Se olharmos para o fluxo completo:
-•	A ingestão carrega os dados para a camada bronze.
+•	A ingestão carrega os dados para a camada bronze.    
 •	O Snowflake garante o armazenamento e o poder de processamento.
 •	O dbt aplica transformações que estruturam os dados em camadas prata e ouro, tornando-os prontos para análise.
 •	O Airflow orquestra todo o processo para que funcione de forma calendarizada e eficiente.
