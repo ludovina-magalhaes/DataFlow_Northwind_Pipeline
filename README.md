@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # “Projetei e implementei uma arquitetura de dados moderna para um negócio estilo e-commerce, cobrindo ingestão, transformação, modelagem, testes e consumo”.
 Os componentes do Modern Data Stack
 O Modern Data Stack é composto por ferramentas que atuam em etapas distintas do ciclo de vida do dado, mas que funcionam de forma integrada.
@@ -113,3 +114,20 @@ Na próxima aula, vamos criar contas gratuitas no Snowflake e na DBT. Se nunca u
 E se preferir usar o BigQuery, não há problema! A ligação funciona de forma semelhante e o código SQL será compatível, bastando seguir a documentação de integração com a DBT
 
 
+=======
+Welcome to your new dbt project!
+
+### Using the starter project
+
+Try running the following commands:
+- dbt run
+- dbt test
+
+
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+>>>>>>> ecec759 (Mensagem do commit)
